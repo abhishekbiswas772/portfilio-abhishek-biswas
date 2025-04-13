@@ -15,8 +15,8 @@ const nextConfig = {
     parallelServerBuildTraces: true,
     parallelServerCompiles: true,
   },
-  // Set the base path for GitHub Pages deployment
   basePath: '/portfilio-abhishek-biswas',
+  assetPrefix: '/portfilio-abhishek-biswas', // 🔥 this fixes 404 on static assets
 }
 
 export default nextConfig
