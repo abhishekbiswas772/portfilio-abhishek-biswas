@@ -42,7 +42,7 @@ export default function About() {
                 <div className="flex justify-center">
                   <div className="relative w-64 h-64 rounded-full overflow-hidden border-4 border-primary">
                     <img
-                      src="/abhishek_biswas.svg?height=256&width=256"
+                      src="https://abhishekbiswas772.github.io/portfilio-abhishek-biswas/abhishek_biswas.svg?height=256&width=256"
                       alt="Abhishek Biswas"
                       className="object-cover w-full h-full"
                     />

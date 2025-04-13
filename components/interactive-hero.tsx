@@ -158,7 +158,7 @@ export default function InteractiveHero() {
           >
             <div className="w-32 h-32 md:w-40 md:h-40 rounded-full overflow-hidden border-4 border-primary/30 shadow-lg mx-auto">
               <img
-                src="/abhishek_biswas.svg?height=160&width=160"
+                src="https://abhishekbiswas772.github.io/portfilio-abhishek-biswas/abhishek_biswas.svg?height=160&width=160"
                 alt="Abhishek Biswas"
                 className="object-cover w-full h-full"
               />

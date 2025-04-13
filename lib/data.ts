@@ -64,7 +64,7 @@ export const projectsData = [
     description:
       "Developed the app using Swift language. Initially, a Python server was built for face recognition; later, Core ML was used to perform the recognition process on the mobile itself for faster results, resulting in a 70% increase in speed after migration. Created a custom-built model for mobile face recognition, removing dependency on an extra overhead server.",
     technologies: ["Swift", "Python", "Core ML", "Face Recognition"],
-    image: "/facerecog.png?height=300&width=500",
+    image: "https://abhishekbiswas772.github.io/portfilio-abhishek-biswas/facerecog.png?height=300&width=500",
   },
   {
     id: 2,
@@ -72,7 +72,7 @@ export const projectsData = [
     description:
       "Created for kids to gain finance knowledge, containing gamification elements like chapter completion rewards, daily login rewards, and certificates upon completion. Used Swift with Firebase and backend with Flask Python as microservice architecture.",
     technologies: ["Swift", "Firebase", "Flask", "Python", "Microservices"],
-    image: "/flearning.png?height=300&width=500",
+    image: "https://abhishekbiswas772.github.io/portfilio-abhishek-biswas/flearning.png?height=300&width=500",
   },
   {
     id: 3,
@@ -80,7 +80,7 @@ export const projectsData = [
     description:
       "Developed using Flutter framework, compiled for all platforms. Firebase is used as the backend. Included functionalities similar to Instagram, such as liking posts, comments, status updates, follow and unfollow, and viewing shorts.",
     technologies: ["Flutter", "Firebase", "Mobile Development"],
-    image: "/instaclone.png?height=300&width=500",
+    image: "https://abhishekbiswas772.github.io/portfilio-abhishek-biswas/instaclone.png?height=300&width=500",
   },
   {
     id: 4,
@@ -88,7 +88,7 @@ export const projectsData = [
     description:
       "Built a chatbot integrated with LLMs for answering domain-specific queries related to industrial engines and HR automation. Incorporated image-based queries and generated visuals using Stable Diffusion pipeline.",
     technologies: ["Python", "LLM", "Stable Diffusion", "GenAI", "Chatbot"],
-    image: "/genai.png?height=300&width=500",
+    image: "https://abhishekbiswas772.github.io/portfilio-abhishek-biswas/genai.png?height=300&width=500",
   },
   {
     id: 5,
@@ -96,7 +96,7 @@ export const projectsData = [
     description:
       "Developed a CHIP-8 emulator in C++ that interprets and runs old 8-bit programs. Implemented memory management, instruction decoding, and keyboard input handling.",
     technologies: ["C++", "Emulator", "Low-level Programming"],
-    image: "/chip8.png?height=300&width=500",
+    image: "https://abhishekbiswas772.github.io/portfilio-abhishek-biswas/chip8.png?height=300&width=500",
   },
   {
     id: 6,
@@ -104,7 +104,7 @@ export const projectsData = [
     description:
       "Built a 2D endless runner game similar to Chrome's offline dinosaur game using Flutter and Flame game engine. Added features like parallax scrolling and smooth jump controls.",
     technologies: ["Flutter", "Flame", "Game Development"],
-    image: "/dino_run.svg?height=300&width=500",
+    image: "https://abhishekbiswas772.github.io/portfilio-abhishek-biswas/dino_run.svg?height=300&width=500",
   },
   {
     id: 7,
@@ -112,7 +112,7 @@ export const projectsData = [
     description:
       "Built a multiplayer chess app using Flutter, supporting human vs. human and human vs. Stockfish engine gameplay. Integrated Stockfish engine for real-time analysis and move evaluation.",
     technologies: ["Flutter", "Stockfish", "Multiplayer", "Game AI"],
-    image: "/pocketchess.png?height=300&width=500",
+    image: "https://abhishekbiswas772.github.io/portfilio-abhishek-biswas/pocketchess.png?height=300&width=500",
   }
 ];
 
